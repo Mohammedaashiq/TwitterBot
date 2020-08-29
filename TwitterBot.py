@@ -37,5 +37,5 @@ class TwitterBot:
                 except Exception as ex:
                     time.sleep(60)
 
-ed=TwitterBot('Aashik82726059','8056740355')
+ed=TwitterBot('','')
 ed.login()
